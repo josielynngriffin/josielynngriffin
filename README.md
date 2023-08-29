@@ -1,9 +1,8 @@
-<h1 align="center">hi, i'm josie! welcome to my github</h1>
-<h3 align="center">full stack web developer</h3>
+<h1 align="left">hi, i'm josie! welcome to my github 🐛</h1>
 
 - 🌱 I’m currently learning **MERN, TypeScript, SASS**
 
-- Check my portfolio out here! [https://josielynngriffin.github.io/josie-react-portfolio/](https://josielynngriffin.github.io/josie-react-portfolio/)
+- Check out my portfolio! [Click Here](https://josielynngriffin.github.io/josie-react-portfolio/)
 
 - Reach me by email at **jelynngriffin@gmail.com**
 
@@ -21,6 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=josielynngriffin&show_icons=true&theme=merko&layout=compact" alt="jamesxfarris" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielynngriffin&theme=merko&layout=compact" alt="jamesxfarris" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=josielynngriffin&show_icons=true&theme=merko" alt="Josie's github stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielynngriffin&theme=merko&layout=compact" alt="Josie's most used" /></p>
 
