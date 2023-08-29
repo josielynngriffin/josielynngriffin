@@ -21,5 +21,5 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=josielynngriffin&show_icons=true&theme=merko" alt="Josie's github stats" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielynngriffin&theme=merko&layout=compact" alt="Josie's most used" /></p>
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielynngriffin&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Josie's most used languages"/></p>
 
